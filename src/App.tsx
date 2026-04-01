@@ -25,7 +25,7 @@ function App() {
   const [activeView, setActiveView] = useState<View>('metrics');
   const [dbReady, setDbReady]       = useState(false);
   const [quickStats, setQuickStats] = useState<Record<string, number>>({});
-  const [themeMode, setThemeMode]   = useState<'dark' | 'light'>('dark');
+  const [themeMode, setThemeMode]   = useState<'dark' | 'light'>('light');
 
   useEffect(() => {
     try {
