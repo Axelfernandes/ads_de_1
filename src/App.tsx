@@ -83,7 +83,7 @@ function App() {
               letterSpacing: '0.02em',
               boxShadow: '0 0 12px rgba(255,59,59,0.35)',
             }}>
-              DoorDash
+              FoodDash
             </span>
             <span style={{ color: 'var(--text-primary)' }}>Ad Analytics</span>
           </h1>

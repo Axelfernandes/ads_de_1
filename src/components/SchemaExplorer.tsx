@@ -108,7 +108,7 @@ export default function SchemaExplorer() {
         <div>
           <h2 className="section-title" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
             <Database size={20} style={{ color: 'var(--indigo)' }} />
-            Interactive ERD · DoorDash Ads Schema
+            Interactive ERD · FoodDash Ads Schema
           </h2>
           <p style={{ color: 'var(--text-muted)', fontSize: '0.8rem', marginTop: '0.25rem' }}>
             Click any table to inspect · Bezier lines show FK relationships

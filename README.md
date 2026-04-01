@@ -1,4 +1,4 @@
-# 🚀 DoorDash Ad Analytics Dashboard
+# 🚀 FoodDash Ad Analytics Dashboard
 
 A high-performance, interactive analytics platform for tracking ad campaign effectiveness, merchant performance, and audience targeting. Built with React, TypeScript, and a powerful in-memory SQL engine (AlaSQL).
 
